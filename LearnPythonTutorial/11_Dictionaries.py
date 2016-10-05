@@ -82,4 +82,3 @@ def do_the_exercise():
 
 do_the_examples()
 do_the_exercise()
-
