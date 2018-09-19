@@ -1,2 +1,2 @@
 # PythonProjects
-All referent to Python projects.
+All related to Python projects.
